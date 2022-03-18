@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/AudienceView/AudienceView%20Common%20Platform/_apis/build/status/farenaslAV.pipelines-java?branchName=master)](https://dev.azure.com/AudienceView/AudienceView%20Common%20Platform/_build/latest?definitionId=168&branchName=master)
 
 # Contributing
 
