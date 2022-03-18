@@ -1,5 +1,6 @@
-Pipeline: [![Build Status](https://dev.azure.com/AudienceView/AudienceView%20Common%20Platform/_apis/build/status/farenaslAV.pipelines-java?branchName=master)](https://dev.azure.com/AudienceView/AudienceView%20Common%20Platform/_build/latest?definitionId=168&branchName=master)
-Job: [![Build Status](https://dev.azure.com/AudienceView/AudienceView%20Common%20Platform/_apis/build/status/farenaslAV.pipelines-java?branchName=master&jobName=Job)](https://dev.azure.com/AudienceView/AudienceView%20Common%20Platform/_build/latest?definitionId=168&branchName=master)
+**Badge request is not working properly because organization has blocked this access on Azure DevOps**
+
+[![Build Status](https://dev.azure.com/AudienceView/AudienceView%20Common%20Platform/_apis/build/status/farenaslAV.pipelines-java?branchName=master)](https://dev.azure.com/AudienceView/AudienceView%20Common%20Platform/_build/latest?definitionId=168&branchName=master)
 
 # Contributing
 
